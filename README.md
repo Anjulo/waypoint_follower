@@ -1,4 +1,4 @@
-# waypoint_followwer
+# waypoint_follower
 
 A reference code for vehicle controller.
 
