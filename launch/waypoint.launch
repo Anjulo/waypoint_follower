@@ -1,0 +1,6 @@
+<launch>
+
+  <node name="wpt_loader" pkg="waypoint_follower" type="wpt_loader.py" output="screen" />
+  <node name="controller" pkg="waypoint_follower" type="controller.py" output="screen" />
+
+</launch>
